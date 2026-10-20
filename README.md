@@ -11,4 +11,4 @@ This is my first and a 1-hour project, I built from scratch for Snowglobe submis
 Time spent: 1 hour + some minutes
 Tools used: VS Code
 
-(I never coded and participated in hackclub event before)
+(I have never coded and participated in hackclub event before)
